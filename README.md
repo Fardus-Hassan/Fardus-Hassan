@@ -21,7 +21,31 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 - Exploring new front-end libraries and frameworks
 - Enhancing skills in animation libraries like Framer Motion and GSAP
 
-<br />
+
+
+
+
+
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardus-hassan&show_icons=true&locale=en" alt="fardus-hassan" /></p>-->
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=fardus-hassan&theme=react&hide_border=true&background=0D1117&stroke=0984e3&fire=0984e3&sideLabels=0984e3&currStreakNum=0984e3&ring=0984e3&currStreakLabel=0984e3&sideNums=0984e3&dates=0984e3&currStreakDate=0984e3" />
+
+
+</p>
+<!--<picture align="right">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=fardus-hassan&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: #2661AD)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=fardus-hassan&show_icons=true"
+    media="(prefers-color-scheme: #2661AD), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fardus-hassan&show_icons=true" />
+</picture>-->
+
 
 <h3>Technologies I am Proficient In :-</h3>
   <p>
@@ -37,7 +61,8 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 
 </p>
 
-<br />
+---
+<p hight="1000"><img align="right" hight="1000" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardus-hassan&show_icons=true&locale=en&layout=pie" alt="fardus-hassan" /></p>
 
 <h3>Technologies I am Moderately Skilled In :-</h3>
 <p>
@@ -50,7 +75,7 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
   
 </p>
 
-<br />
+---
 
 <h3>Technologies I am Exploring :-</h3>
 <p>
@@ -62,7 +87,7 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 
 </p>
 
-<br />
+<br/>
 
 <h3  align="center">Connect with me :-</h3>
 <p  align="center">
@@ -74,4 +99,7 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 ---
 
 Feel free to check out my repositories and connect with me!
+
+
+
 
