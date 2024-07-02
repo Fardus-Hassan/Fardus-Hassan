@@ -60,7 +60,7 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 </p>
 <br/>
 
-  <img align="right" height="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardus-hassan&show_icons=true&locale=en&layout=pie&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" alt="fardus-hassan" />
+  <img align="right" height="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardus-hassan&show_icons=true&locale=en&layout=pie&bg_color=0984e3&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" alt="fardus-hassan" />
 
 
 <h3>Technologies I am Moderately Skilled In:</h3>
@@ -77,8 +77,8 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 <p>
   <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/6476dbaf-80d7-4eab-9fcf-ce4f470f6ed5" width="80" alt="image" />
   <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/1684fcc1-8551-46b4-8fd8-5999d33b52b0" width="80" alt="image" />
-  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/71173297-b6c6-4553-9a66-cf3733ba82de" width="80" alt="image" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" width="150" alt="GSAP" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/71173297-b6c6-4553-9a66-cf3733ba82de" width="65" alt="image" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" width="110" alt="GSAP" />
 </p>
 
 
