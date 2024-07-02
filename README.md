@@ -11,11 +11,11 @@
 
 
 
-### About Me
+## About Me
 
 I am a passionate front-end developer and junior MERN stack developer. Despite not having a computer science background, my interest in programming has driven me to dive into this field. I am excited to build a career in web development, continuously learning and exploring new technologies.
 
-### Current Focus
+## Current Focus
 - Building and deploying web applications using MERN stack
 - Exploring new front-end libraries and frameworks
 - Enhancing skills in animation libraries like Framer Motion and GSAP
@@ -47,7 +47,7 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 </picture>-->
 
 
-<h3>Technologies I am Proficient In :-</h3>
+<h3>⚙️ Technologies I am Proficient In :-</h3>
 <p>
   <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/36a7bfb2-859a-41ac-aa79-31f1b92f5b4e" width="80" alt="image" />
   <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/d9dde1d8-d0b4-4a28-9ed6-0ee864e51a82" width="80" alt="image" />
@@ -63,7 +63,7 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
   <img align="right" height="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardus-hassan&show_icons=true&locale=en&layout=pie&bg_color=8854d0&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" alt="fardus-hassan" />
 
 
-<h3>Technologies I am Moderately Skilled In :-</h3>
+<h3>🖥️ Technologies I am Moderately Skilled In :-</h3>
 <p>
     <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/a51d8971-20a2-4e1d-8626-c396dfa583b0" width="80" alt="image" />
   <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/71b98f8f-87cf-4f3c-a6df-d3b7fa7b5ac9" width="80" alt="image" />
@@ -74,7 +74,7 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 
 <br/>
 
-<h3>Technologies I am Exploring :-</h3>
+<h3>🔍 Technologies I am Exploring :-</h3>
 <p>
   <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/6476dbaf-80d7-4eab-9fcf-ce4f470f6ed5" width="80" alt="image" />
   <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/1684fcc1-8551-46b4-8fd8-5999d33b52b0" width="80" alt="image" />
@@ -87,7 +87,7 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 
 <br/>
 
-<h3  align="center">Connect with me :-</h3>
+<h3  align="center">📞 Connect with me :-</h3>
 <p  align="center">
 <a href="https://linkedin.com/in/fardus-hassan-05a3932aa" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Fardus Hassan LinkedIn" height="50" width="50" /></a>
 <a href="https://facebook.com/profile.php?id=100034957954013" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Fardus Hassan Facebook" height="50" width="50" /></a>
