@@ -1,4 +1,4 @@
-![Banner](https://qualified.one/static/img/content/blog/best-node-js-books.jpg)
+![Banner](https://i.ibb.co/zG2020m/Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro-1.gif)
 
 ## Hi there, I'm Fardus Hassan 👋
 
