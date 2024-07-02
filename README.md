@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://i.ibb.co/zG2020m/Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro-1.gif" alt="Banner"  width="1000px" height="800px"/>
+<img src="https://i.ibb.co/zG2020m/Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro-1.gif" alt="Banner" />
 
 ![Banner](https://i.ibb.co/zG2020m/Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro-1.gif)
 
@@ -21,9 +21,10 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 - Exploring new front-end libraries and frameworks
 - Enhancing skills in animation libraries like Framer Motion and GSAP
 
-### Technologies I am Proficient In
-<p>
-  <p align="left">
+<br />
+
+<h3>Technologies I am Proficient In :-</h3>
+  <p>
 
   <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/36a7bfb2-859a-41ac-aa79-31f1b92f5b4e)<span/>
   <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/d9dde1d8-d0b4-4a28-9ed6-0ee864e51a82)<span/>
@@ -35,11 +36,10 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/8dcbf255-8641-44c6-8811-0fd4071bfc8e)<span/>
 
 </p>
-</p>
 
----
+<br />
 
-### Technologies I am Moderately Skilled In
+<h3>Technologies I am Moderately Skilled In :-</h3>
 <p>
 
   <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/71b98f8f-87cf-4f3c-a6df-d3b7fa7b5ac9)<span/>
@@ -50,26 +50,25 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
   
 </p>
 
----
+<br />
 
-### Technologies I am Exploring
+<h3>Technologies I am Exploring :-</h3>
 <p>
 
  <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/6476dbaf-80d7-4eab-9fcf-ce4f470f6ed5)<span/>
   <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/1684fcc1-8551-46b4-8fd8-5999d33b52b0)<span/>
- <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/71173297-b6c6-4553-9a66-cf3733ba82de)
-<span/>
+ <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/71173297-b6c6-4553-9a66-cf3733ba82de)<span/>
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
 
 </p>
 
+<br />
 
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/fardus-hassan-05a3932aa" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Fardus Hassan LinkedIn" height="40" width="40" /></a>
-<a href="https://facebook.com/profile.php?id=100034957954013" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Fardus Hassan Facebook" height="40" width="40" /></a>
-<a href="https://api.whatsapp.com/send/?phone=8801722092675&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="Fardus Hassan Email" height="40" width="40" /></a>
+<h3  align="center">Connect with me :-</h3>
+<p  align="center">
+<a href="https://linkedin.com/in/fardus-hassan-05a3932aa" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Fardus Hassan LinkedIn" height="50" width="50" /></a>
+<a href="https://facebook.com/profile.php?id=100034957954013" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Fardus Hassan Facebook" height="50" width="50" /></a>
+<a href="https://api.whatsapp.com/send/?phone=8801722092675&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="Fardus Hassan Email" height="50" width="50" /></a>
 </p>
 
 ---
