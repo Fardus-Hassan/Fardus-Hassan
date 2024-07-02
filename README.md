@@ -37,17 +37,17 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
   <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/9c442e35-128d-499d-bd6b-6e88048f8a78)<span/>
   <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/232b7c9b-a472-4dd3-8f5d-b768c938aedf)<span/>
   <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/a51d8971-20a2-4e1d-8626-c396dfa583b0)<span/>
+  <span><span/>
   
 </p>
 
 ### Technologies I am Exploring
 <p>
 
- <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/6476dbaf-80d7-4eab-9fcf-ce4f470f6ed5)
+ <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/6476dbaf-80d7-4eab-9fcf-ce4f470f6ed5)<span/>
+  <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/1684fcc1-8551-46b4-8fd8-5999d33b52b0)<span/>
+ <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/71173297-b6c6-4553-9a66-cf3733ba82de)
 <span/>
-  <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/1684fcc1-8551-46b4-8fd8-5999d33b52b0)
-<span/>
-  <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/8f957ee3-b79f-4d09-aa47-dd0112caeb12)<span/>
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
 </p>
 
