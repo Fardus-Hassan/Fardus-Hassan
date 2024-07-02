@@ -1,7 +1,9 @@
 <!-- Banner -->
-<img src="https://i.ibb.co/zG2020m/Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro-1.gif" alt="Banner" style="width:100%;"/>
+<img src="https://i.ibb.co/zG2020m/Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro-1.gif" alt="Banner"  width="1000px" height="800px"/>
 
-<h1 align="center">Hi, I'm Fardus Hassan</h1>
+![Banner](https://i.ibb.co/zG2020m/Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro-1.gif)
+
+<h1 align="center">Hi, I'm Fardus Hassan 🙋‍♂️</h1>
 <h3 align="center">A passionate Frontend Developer and Junior MERN Stack Developer from Joydebpur, Gazipur, Bangladesh</h3>
 
 <p align="center"> 
@@ -13,6 +15,11 @@
 ### About Me
 
 I am a passionate front-end developer and junior MERN stack developer. Despite not having a computer science background, my interest in programming has driven me to dive into this field. I am excited to build a career in web development, continuously learning and exploring new technologies.
+
+### Current Focus
+- Building and deploying web applications using MERN stack
+- Exploring new front-end libraries and frameworks
+- Enhancing skills in animation libraries like Framer Motion and GSAP
 
 ### Technologies I am Proficient In
 <p>
@@ -30,6 +37,8 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 </p>
 </p>
 
+---
+
 ### Technologies I am Moderately Skilled In
 <p>
 
@@ -41,6 +50,8 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
   
 </p>
 
+---
+
 ### Technologies I am Exploring
 <p>
 
@@ -49,17 +60,17 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
  <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/71173297-b6c6-4553-9a66-cf3733ba82de)
 <span/>
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+
 </p>
 
-### Current Focus
-- Building and deploying web applications using MERN stack
-- Exploring new front-end libraries and frameworks
-- Enhancing skills in animation libraries like Framer Motion and GSAP
 
-### Contact Me
-- **Email:** webdev.fardus@gmail.com
-- **LinkedIn:** [fardushassan](https://www.linkedin.com/in/fardus-hassan-05a3932aa/)
-- **Location:** Joydebpur, Gazipur, Bangladesh
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/fardus-hassan-05a3932aa" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Fardus Hassan LinkedIn" height="40" width="40" /></a>
+<a href="https://facebook.com/profile.php?id=100034957954013" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Fardus Hassan Facebook" height="40" width="40" /></a>
+<a href="https://api.whatsapp.com/send/?phone=8801722092675&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="Fardus Hassan Email" height="40" width="40" /></a>
+</p>
 
 ---
 
