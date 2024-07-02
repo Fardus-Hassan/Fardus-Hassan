@@ -2,8 +2,7 @@
 ![Green and Black Geometric Techno Technology YouTube Intro](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/2890cc3b-4a68-47d9-be67-09e24aecd2ab)
 
 
-
-<h1 align="center">Hi, I'm Fardus Hassan 🙋‍♂️</h1>
+<hr/>
 <h3 align="center">A passionate Frontend Developer and Junior MERN Stack Developer from Joydebpur, Gazipur, Bangladesh</h3>
 
 <p align="center"> 
