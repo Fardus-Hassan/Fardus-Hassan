@@ -11,17 +11,16 @@
 
 
 
-## About Me
+## 🚩 About Me
 
 I am a passionate front-end developer and junior MERN stack developer. Despite not having a computer science background, my interest in programming has driven me to dive into this field. I am excited to build a career in web development, continuously learning and exploring new technologies.
 
-## Current Focus
-- Building and deploying web applications using MERN stack
-- Exploring new front-end libraries and frameworks
-- Enhancing skills in animation libraries like Framer Motion and GSAP
-- Interested in doing a job besides everything
+
+<p align="center">
+  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=fardus-hassan&theme=react&hide_border=true&background=0D1117&stroke=9571EB&fire=ecf0f1&sideLabels=9571EB&currStreakNum=9571EB&ring=9571EB&currStreakLabel=9571EB&sideNums=9571EB&dates=9571EB&currStreakDate=9571EB" />
 
 
+</p>
 
 
 
@@ -29,11 +28,6 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardus-hassan&show_icons=true&locale=en" alt="fardus-hassan" /></p>-->
 
-<p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=fardus-hassan&theme=react&hide_border=true&background=0D1117&stroke=9571EB&fire=ecf0f1&sideLabels=9571EB&currStreakNum=9571EB&ring=9571EB&currStreakLabel=9571EB&sideNums=9571EB&dates=9571EB&currStreakDate=9571EB" />
-
-
-</p>
 <!--<picture align="right">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=fardus-hassan&show_icons=true&theme=dark"
@@ -83,7 +77,13 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
   <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/b15789a9-0d52-45f8-a678-a0d47222bab4" width="65" alt="GSAP" />
 
 </p>
+<br/>
 
+## 🎯 Current Focus
+- Building and deploying web applications using MERN stack
+- Exploring new front-end libraries and frameworks
+- Enhancing skills in animation libraries like Framer Motion and GSAP
+- Interested in doing a job besides everything
 
 <br/>
 
