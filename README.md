@@ -1,7 +1,7 @@
 <!-- Banner -->
-<img src="https://i.ibb.co/zG2020m/Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro-1.gif" alt="Banner" />
+<img src="https://i.ibb.co/zG2020m/Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro-1.gif" alt="Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro-1" border="0">
 
-![Banner](https://i.ibb.co/zG2020m/Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro-1.gif)
+<!--![Banner](https://i.ibb.co/zG2020m/Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro-1.gif)-->
 
 <h1 align="center">Hi, I'm Fardus Hassan 🙋‍♂️</h1>
 <h3 align="center">A passionate Frontend Developer and Junior MERN Stack Developer from Joydebpur, Gazipur, Bangladesh</h3>
@@ -48,44 +48,39 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 
 
 <h3>Technologies I am Proficient In :-</h3>
-  <p>
-
-  <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/36a7bfb2-859a-41ac-aa79-31f1b92f5b4e)<span/>
-  <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/d9dde1d8-d0b4-4a28-9ed6-0ee864e51a82)<span/>
-  <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/d3c615d3-32ab-4f37-8eac-0e79e7ae2d0c)<span/>
-  <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/d2318a80-8fe4-4c7b-bc32-082cfe0bb286)<span/>
-  <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/2742533b-af38-4074-9739-62badd26f318)<span/>
-  <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/9d698789-7806-4a6e-9a77-a29206ac3c34)<span/>
-<span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/cdca2a39-7265-475a-8c3a-503c43bf8ecd)<span/>
-<span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/8dcbf255-8641-44c6-8811-0fd4071bfc8e)<span/>
-
-</p>
-
----
-<p hight="1000"><img align="right" hight="1000" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardus-hassan&show_icons=true&locale=en&layout=pie" alt="fardus-hassan" /></p>
-
-<h3>Technologies I am Moderately Skilled In :-</h3>
 <p>
-
-  <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/71b98f8f-87cf-4f3c-a6df-d3b7fa7b5ac9)<span/>
-  <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/9c442e35-128d-499d-bd6b-6e88048f8a78)<span/>
-  <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/232b7c9b-a472-4dd3-8f5d-b768c938aedf)<span/>
-  <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/a51d8971-20a2-4e1d-8626-c396dfa583b0)<span/>
-  <span><span/>
-  
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/36a7bfb2-859a-41ac-aa79-31f1b92f5b4e" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/d9dde1d8-d0b4-4a28-9ed6-0ee864e51a82" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/d3c615d3-32ab-4f37-8eac-0e79e7ae2d0c" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/d2318a80-8fe4-4c7b-bc32-082cfe0bb286" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/2742533b-af38-4074-9739-62badd26f318" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/9d698789-7806-4a6e-9a77-a29206ac3c34" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/cdca2a39-7265-475a-8c3a-503c43bf8ecd" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/8dcbf255-8641-44c6-8811-0fd4071bfc8e" width="80" alt="image" />
 </p>
+<br/>
 
----
+  <img align="right" height="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardus-hassan&show_icons=true&locale=en&layout=pie&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" alt="fardus-hassan" />
 
-<h3>Technologies I am Exploring :-</h3>
+
+<h3>Technologies I am Moderately Skilled In:</h3>
 <p>
-
- <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/6476dbaf-80d7-4eab-9fcf-ce4f470f6ed5)<span/>
-  <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/1684fcc1-8551-46b4-8fd8-5999d33b52b0)<span/>
- <span>![image](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/71173297-b6c6-4553-9a66-cf3733ba82de)<span/>
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/71b98f8f-87cf-4f3c-a6df-d3b7fa7b5ac9" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/9c442e35-128d-499d-bd6b-6e88048f8a78" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/232b7c9b-a472-4dd3-8f5d-b768c938aedf" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/a51d8971-20a2-4e1d-8626-c396dfa583b0" width="80" alt="image" />
 </p>
+
+<br/>
+
+<h3>Technologies I am Exploring:</h3>
+<p>
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/6476dbaf-80d7-4eab-9fcf-ce4f470f6ed5" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/1684fcc1-8551-46b4-8fd8-5999d33b52b0" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/71173297-b6c6-4553-9a66-cf3733ba82de" width="80" alt="image" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" width="150" alt="GSAP" />
+</p>
+
 
 <br/>
 
