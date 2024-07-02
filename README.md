@@ -1,7 +1,9 @@
 
-<img src="https://i.ibb.co/zG2020m/Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro-1.gif" alt="Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro-1"  width="800"  hight="800">
+<!-- 
 
-![Banner](https://i.ibb.co/zG2020m/Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro-1.gif)
+![Banner](https://i.ibb.co/zG2020m/Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro-1.gif) -->
+
+<img src="https://i.ibb.co/6XYQ3L3/Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro.gif">
 
 
 
@@ -11,10 +13,10 @@
 <h3 align="center">A passionate Frontend Developer and Junior MERN Stack Developer from Joydebpur, Gazipur, Bangladesh</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=fardus-hassan&label=Profile%20views&color=0e75b6&style=flat" alt="fardus-hassan" /> 
+  <img src="https://komarev.com/ghpvc/?username=fardus-hassan&label=Profile%20views&color=9571EB&style=flat" alt="fardus-hassan" /> 
 </p>
 
-<img  alt="coding" align="right" width="400"  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGM2dWgxbzl0eWUxcmFmbjhxN3picWM1bDNtY3JoOW90a3J5NTFjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L8K62iTDkzGX6/giphy.webp">
+
 
 ### About Me
 
@@ -35,7 +37,7 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardus-hassan&show_icons=true&locale=en" alt="fardus-hassan" /></p>-->
 
 <p align="center">
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=fardus-hassan&theme=react&hide_border=true&background=0D1117&stroke=0984e3&fire=0984e3&sideLabels=0984e3&currStreakNum=0984e3&ring=0984e3&currStreakLabel=0984e3&sideNums=0984e3&dates=0984e3&currStreakDate=0984e3" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=fardus-hassan&theme=react&hide_border=true&background=0D1117&stroke=9571EB&fire=ecf0f1&sideLabels=9571EB&currStreakNum=9571EB&ring=9571EB&currStreakLabel=9571EB&sideNums=9571EB&dates=9571EB&currStreakDate=9571EB" />
 
 
 </p>
@@ -65,7 +67,7 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 </p>
 <br/>
 
-  <img align="right" height="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardus-hassan&show_icons=true&locale=en&layout=pie&bg_color=0984e3&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" alt="fardus-hassan" />
+  <img align="right" height="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardus-hassan&show_icons=true&locale=en&layout=pie&bg_color=8854d0&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" alt="fardus-hassan" />
 
 
 <h3>Technologies I am Moderately Skilled In :-</h3>
@@ -84,7 +86,9 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
   <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/6476dbaf-80d7-4eab-9fcf-ce4f470f6ed5" width="80" alt="image" />
   <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/1684fcc1-8551-46b4-8fd8-5999d33b52b0" width="80" alt="image" />
   <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/71173297-b6c6-4553-9a66-cf3733ba82de" width="65" alt="image" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" width="110" alt="GSAP" />
+  <!--<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" width="110" alt="GSAP" />-->
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/b15789a9-0d52-45f8-a678-a0d47222bab4" width="65" alt="GSAP" />
+
 </p>
 
 
