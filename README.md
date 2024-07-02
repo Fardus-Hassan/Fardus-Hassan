@@ -1,11 +1,5 @@
 
-<!-- 
-
-![Banner](https://i.ibb.co/zG2020m/Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro-1.gif) -->
-
-<img src="https://i.ibb.co/6XYQ3L3/Green-and-Black-Geometric-Techno-Technology-You-Tube-Intro.gif">
-
-
+![Green and Black Geometric Techno Technology YouTube Intro](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/2890cc3b-4a68-47d9-be67-09e24aecd2ab)
 
 
 
