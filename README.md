@@ -85,21 +85,24 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 - Enhancing skills in animation libraries like Framer Motion and GSAP
 - Interested in doing a job besides everything
 
-<br/>
 
-<h3  align="center">📞 Connect with me :-</h3>
-<p  align="center">
+
+<h3  align="right">📞 Connect with me :-</h3>
+<p  align="right">
 <a href="https://linkedin.com/in/fardus-hassan-05a3932aa" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Fardus Hassan LinkedIn" height="50" width="50" /></a>
 <a href="https://facebook.com/profile.php?id=100034957954013" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Fardus Hassan Facebook" height="50" width="50" /></a>
 <a href="https://api.whatsapp.com/send/?phone=8801722092675&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="Fardus Hassan Email" height="50" width="50" /></a>
 </p>
 
-<br/>
+
 
 Feel free to check out my repositories and connect with me! 
-<h5 align="right">webdev.fardus@gmail.com<h5/> 
 
 ---
+
+<h5 align="right">webdev.fardus@gmail.com<h5/> 
+
+
 
 
 
