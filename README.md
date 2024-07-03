@@ -94,9 +94,12 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 <a href="https://api.whatsapp.com/send/?phone=8801722092675&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="Fardus Hassan Email" height="50" width="50" /></a>
 </p>
 
----
+<br/>
 
-Feel free to check out my repositories and connect with me!
+Feel free to check out my repositories and connect with me! 
+<h5 align="right">webdev.fardus@gmail.com<h5/> 
+
+---
 
 
 
