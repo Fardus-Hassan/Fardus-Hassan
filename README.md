@@ -2,12 +2,7 @@
 <!--![Green and Black Geometric Techno Technology YouTube Intro](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/2890cc3b-4a68-47d9-be67-09e24aecd2ab)-->
 
 
-  <!--<img width="1080px" src="https://github.com/user-attachments/assets/288363a1-48d2-4b9f-b9da-145893c39710" alt="fardus-hassan" /> -->
-
-  ![Green and Black Geometric Techno Technology YouTube Intro](https://github.com/user-attachments/assets/9f42f392-0548-41bd-8851-25c146d61d09)
-
-
-<!--![Wave Animation](https://raw.githubusercontent.com/Fardus-Hassan/Fardus-Hassan/main/assets/wave_animation.svg)-->
+  <img width="846px" hight="475.875px" src="https://github.com/user-attachments/assets/9f42f392-0548-41bd-8851-25c146d61d09" alt="fardus-hassan" /> 
 
 
 
@@ -99,9 +94,10 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 
 <h3  align="center">📞 Connect with me :-</h3>
 <p  align="center">
-<a href="https://linkedin.com/in/fardus-hassan-05a3932aa" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Fardus Hassan LinkedIn" height="50" width="50" /></a>
-<a href="https://facebook.com/profile.php?id=100034957954013" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Fardus Hassan Facebook" height="50" width="50" /></a>
-<a href="https://api.whatsapp.com/send/?phone=8801722092675&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="Fardus Hassan Email" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/fardus-hassan-05a3932aa" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Fardus Hassan LinkedIn" height="50" width="50" /></a>
+<a href="https://facebook.com/profile.php?id=100034957954013" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Fardus Hassan Facebook" height="50" width="50" /></a>
+<a href="https://api.whatsapp.com/send/?phone=8801722092675&text&type=phone_number&app_absent=0" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="Fardus Hassan Email" height="50" width="50" /></a>
+<a href="https://fardus-hassan.netlify.app" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/portfolio.png" alt="Fardus Hassan Email" height="50" width="50" /></a>
 </p>
 
 <br/>
