@@ -4,7 +4,13 @@
 
   <!--<img width="1080px" src="https://github.com/user-attachments/assets/288363a1-48d2-4b9f-b9da-145893c39710" alt="fardus-hassan" /> -->
 
-![Wave Animation](https://raw.githubusercontent.com/Fardus-Hassan/Fardus-Hassan/main/assets/wave_animation.svg)
+  ![Green and Black Geometric Techno Technology YouTube Intro](https://github.com/user-attachments/assets/9f42f392-0548-41bd-8851-25c146d61d09)
+
+
+<!--![Wave Animation](https://raw.githubusercontent.com/Fardus-Hassan/Fardus-Hassan/main/assets/wave_animation.svg)-->
+
+
+
 
 <hr/>
 <h3 align="center">A passionate Frontend Developer and Junior MERN Stack Developer from Joydebpur, Gazipur, Bangladesh</h3>
