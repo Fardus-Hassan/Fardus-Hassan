@@ -1,0 +1,20 @@
+<svg width="500" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes wave {
+      0% {
+        d: path("M0,100 C150,200 350,0 500,100 L500,00 L0,0 Z");
+      }
+      50% {
+        d: path("M0,100 C150,0 350,200 500,100 L500,00 L0,0 Z");
+      }
+      100% {
+        d: path("M0,100 C150,200 350,0 500,100 L500,00 L0,0 Z");
+      }
+    }
+    .wave {
+      fill: rgba(138, 43, 226, 0.5);
+      animation: wave 5s infinite;
+    }
+  </style>
+  <path class="wave" d="M0,100 C150,200 350,0 500,100 L500,00 L0,0 Z"></path>
+</svg>
