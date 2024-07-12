@@ -2,9 +2,9 @@
 <!--![Green and Black Geometric Techno Technology YouTube Intro](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/2890cc3b-4a68-47d9-be67-09e24aecd2ab)-->
 
 
-  <img width="1080px" src="https://github.com/user-attachments/assets/288363a1-48d2-4b9f-b9da-145893c39710" alt="fardus-hassan" /> 
+  <!--<img width="1080px" src="https://github.com/user-attachments/assets/288363a1-48d2-4b9f-b9da-145893c39710" alt="fardus-hassan" /> -->
 
-
+![Wave Animation](https://raw.githubusercontent.com/Fardus-Hassan/Fardus-Hassan/main/assets/wave_animation.svg)
 
 <hr/>
 <h3 align="center">A passionate Frontend Developer and Junior MERN Stack Developer from Joydebpur, Gazipur, Bangladesh</h3>
@@ -89,16 +89,16 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 - Enhancing skills in animation libraries like Framer Motion and GSAP
 - Interested in doing a job besides everything
 
+<br/>
 
-
-<h3  align="right">📞 Connect with me :-</h3>
-<p  align="right">
+<h3  align="center">📞 Connect with me :-</h3>
+<p  align="center">
 <a href="https://linkedin.com/in/fardus-hassan-05a3932aa" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Fardus Hassan LinkedIn" height="50" width="50" /></a>
 <a href="https://facebook.com/profile.php?id=100034957954013" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Fardus Hassan Facebook" height="50" width="50" /></a>
 <a href="https://api.whatsapp.com/send/?phone=8801722092675&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="Fardus Hassan Email" height="50" width="50" /></a>
 </p>
 
-
+<br/>
 
 Feel free to check out my repositories and connect with me! 
 
