@@ -1,20 +1,20 @@
-<svg width="500" height="200" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @keyframes wave {
-      0% {
-        d: path("M0,100 C150,200 350,0 500,100 L500,00 L0,0 Z");
-      }
-      50% {
-        d: path("M0,100 C150,0 350,200 500,100 L500,00 L0,0 Z");
-      }
-      100% {
-        d: path("M0,100 C150,200 350,0 500,100 L500,00 L0,0 Z");
-      }
-    }
-    .wave {
-      fill: rgba(138, 43, 226, 0.5);
-      animation: wave 5s infinite;
-    }
-  </style>
-  <path class="wave" d="M0,100 C150,200 350,0 500,100 L500,00 L0,0 Z"></path>
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" gradientTransform="rotate(90)">
+      <stop offset="0%" stop-color="#5846F2"/>
+      <stop offset="100%" stop-color="#DC7EEC"/>
+    </linearGradient>
+    <filter id="blur">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="10" />
+    </filter>
+  </defs>
+  <path id="wave" fill="url(#gradient)" filter="url(#blur)">
+    <animate attributeName="d" dur="5s" repeatCount="indefinite"
+      values="
+        M0,100 C150,200 350,0 500,100 L500,200 L0,200 Z;
+        M0,100 C150,0 350,200 500,100 L500,200 L0,200 Z;
+        M0,100 C150,200 350,0 500,100 L500,200 L0,200 Z"
+    />
+  </path>
 </svg>
+
