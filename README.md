@@ -1,5 +1,9 @@
 
-![Green and Black Geometric Techno Technology YouTube Intro](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/2890cc3b-4a68-47d9-be67-09e24aecd2ab)
+<!--![Green and Black Geometric Techno Technology YouTube Intro](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/2890cc3b-4a68-47d9-be67-09e24aecd2ab)-->
+
+
+  <img width="1080px" src="https://github.com/user-attachments/assets/288363a1-48d2-4b9f-b9da-145893c39710" alt="fardus-hassan" /> 
+
 
 
 <hr/>
