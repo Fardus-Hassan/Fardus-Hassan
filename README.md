@@ -106,7 +106,7 @@ Feel free to check out my repositories and connect with me!
 
 ---
 
-<h5 align="right">webdev.fardus@gmail.com<h5/> 
+<h5 align="right">fardus.dev@gmail.com<h5/> 
 
 
 
