@@ -1,196 +1,115 @@
-<div align="center">
 
-```
-███████╗ █████╗ ██████╗ ██████╗ ██╗   ██╗███████╗
-██╔════╝██╔══██╗██╔══██╗██╔══██╗██║   ██║██╔════╝
-█████╗  ███████║██████╔╝██║  ██║██║   ██║███████╗
-██╔══╝  ██╔══██║██╔══██╗██║  ██║██║   ██║╚════██║
-██║     ██║  ██║██║  ██║██████╔╝╚██████╔╝███████║
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝
-```
+<!--![Green and Black Geometric Techno Technology YouTube Intro](https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/2890cc3b-4a68-47d9-be67-09e24aecd2ab)-->
 
-</div>
 
----
+  <img width="846px" hight="475.875px" src="https://github.com/user-attachments/assets/9f42f392-0548-41bd-8851-25c146d61d09" alt="fardus-hassan" /> 
 
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8854D0&center=true&vCenter=true&width=600&lines=Frontend+Developer+%F0%9F%96%A5%EF%B8%8F;Junior+MERN+Stack+Developer+%F0%9F%9A%80;Self-Taught+%7C+Always+Learning+%F0%9F%93%9A;Building+for+the+web+%E2%80%94+one+commit+at+a+time" alt="Typing SVG" />
 
-<br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-fardus--hassan.netlify.app-8854D0?style=for-the-badge&labelColor=1a1a2e)](https://fardus-hassan.netlify.app)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fardus-hassan-05a3932aa)
-&nbsp;
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=8801722092675)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-fardus.dev%40gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fardus.dev@gmail.com)
+<hr/>
+<h3 align="center">A passionate Frontend Developer and Junior MERN Stack Developer from Joydebpur, Gazipur, Bangladesh</h3>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=fardus-hassan&label=Profile%20views&color=9571EB&style=flat" alt="fardus-hassan" /> 
+</p>
+
+
+
+## 🚩 About Me
+
+I am a passionate front-end developer and junior MERN stack developer. Despite not having a computer science background, my interest in programming has driven me to dive into this field. I am excited to build a career in web development, continuously learning and exploring new technologies.
+
+
+<p align="center">
+  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com?user=fardus-hassan&theme=react&hide_border=true&background=0D1117&stroke=9571EB&fire=ecf0f1&sideLabels=9571EB&currStreakNum=9571EB&ring=9571EB&currStreakLabel=9571EB&sideNums=9571EB&dates=9571EB&currStreakDate=9571EB" />
+
+
+</p>
+
+
+
+
+
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fardus-hassan&show_icons=true&locale=en" alt="fardus-hassan" /></p>-->
+
+<!--<picture align="right">
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=fardus-hassan&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: #2661AD)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=fardus-hassan&show_icons=true"
+    media="(prefers-color-scheme: #2661AD), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fardus-hassan&show_icons=true" />
+</picture>-->
+
+
+<h3>⚙️ Technologies I am Proficient In :-</h3>
+<p>
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/36a7bfb2-859a-41ac-aa79-31f1b92f5b4e" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/d9dde1d8-d0b4-4a28-9ed6-0ee864e51a82" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/d3c615d3-32ab-4f37-8eac-0e79e7ae2d0c" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/d2318a80-8fe4-4c7b-bc32-082cfe0bb286" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/2742533b-af38-4074-9739-62badd26f318" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/9d698789-7806-4a6e-9a77-a29206ac3c34" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/cdca2a39-7265-475a-8c3a-503c43bf8ecd" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/8dcbf255-8641-44c6-8811-0fd4071bfc8e" width="80" alt="image" />
+</p>
+<br/>
+
+  <img align="right" height="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardus-hassan&show_icons=true&locale=en&layout=pie&bg_color=8854d0&title_color=FFFFFF&text_color=FFFFFF&hide_border=true" alt="fardus-hassan" />
+
+
+<h3>🖥️ Technologies I am Moderately Skilled In :-</h3>
+<p>
+    <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/a51d8971-20a2-4e1d-8626-c396dfa583b0" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/71b98f8f-87cf-4f3c-a6df-d3b7fa7b5ac9" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/9c442e35-128d-499d-bd6b-6e88048f8a78" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/232b7c9b-a472-4dd3-8f5d-b768c938aedf" width="80" alt="image" />
+
+</p>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=fardus-hassan&style=for-the-badge&color=8854d0&label=PROFILE+VIEWS)
+<h3>🔍 Technologies I am Exploring :-</h3>
+<p>
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/6476dbaf-80d7-4eab-9fcf-ce4f470f6ed5" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/1684fcc1-8551-46b4-8fd8-5999d33b52b0" width="80" alt="image" />
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/71173297-b6c6-4553-9a66-cf3733ba82de" width="65" alt="image" />
+  <!--<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" width="110" alt="GSAP" />-->
+  <img src="https://github.com/Fardus-Hassan/Fardus-Hassan/assets/155534646/b15789a9-0d52-45f8-a678-a0d47222bab4" width="65" alt="GSAP" />
 
-</div>
+</p>
+<br/>
 
----
+## 🎯 Current Focus
+- Building and deploying web applications using MERN stack
+- Exploring new front-end libraries and frameworks
+- Enhancing skills in animation libraries like Framer Motion and GSAP
+- Interested in doing a job besides everything
 
-<img align="right" src="https://github.com/user-attachments/assets/9f42f392-0548-41bd-8851-25c146d61d09" width="38%" alt="Fardus Hassan Banner" />
+<br/>
 
-## `$ whoami`
+<h3  align="center">📞 Connect with me :-</h3>
+<p  align="center">
+<a href="https://linkedin.com/in/fardus-hassan-05a3932aa" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Fardus Hassan LinkedIn" height="50" width="50" /></a>
+<a href="https://facebook.com/profile.php?id=100034957954013" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Fardus Hassan Facebook" height="50" width="50" /></a>
+<a href="https://api.whatsapp.com/send/?phone=8801722092675&text&type=phone_number&app_absent=0" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="Fardus Hassan Email" height="50" width="50" /></a>
+<a href="https://fardus-hassan.netlify.app" target="_blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/portfolio.png" alt="Fardus Hassan Email" height="50" width="50" /></a>
+</p>
 
-```yaml
-name       : Fardus Hassan
-location   : Joydebpur, Gazipur 🇧🇩
-role       : Frontend Developer
-             Junior MERN Stack Dev
-status     : Open to work 🟢
-background : Self-taught (no CS degree)
-passion    : Turning ideas into UI
-quote      : "Build. Ship. Learn. Repeat."
-```
+<br/>
 
-<br clear="right"/>
-
----
-
-## `$ cat journey.log`
-
-> I didn't start with a computer science degree.  
-> I started with **curiosity** — and that was enough.
->
-> Today I build fast, accessible, production-ready web apps  
-> with React, Tailwind, and the full MERN stack.  
-> Every project taught me something a classroom never could.
+Feel free to check out my repositories and connect with me! 
 
 ---
 
-## `$ ls ./experience`
+<h5 align="right">fardus.dev@gmail.com<h5/> 
 
-<table>
-<tr>
-<td width="50%">
 
-### 🏢 Freelance Hub BD Ltd
-**Frontend Engineer** &nbsp;·&nbsp; `Jan 2025 – Present`
 
-- Building tailored web products with React
-- Pixel-perfect UI from design to deployment
-- Cross-browser performance optimization
-- End-to-end feature delivery & support
 
-</td>
-<td width="50%">
 
-### 🏢 Eclipse Intellitech Limited
-**MERN Stack Developer** &nbsp;·&nbsp; `Sep 2024 – Jan 2025`
 
-- Built reusable component libraries
-- Paired with backend team for API integration
-- Improved legacy codebase performance
-- Delivered features under Agile sprints
-
-</td>
-</tr>
-</table>
-
----
-
-## `$ cat tech_stack.json`
-
-```json
-{
-  "proficient": {
-    "markup_style"         : ["HTML5", "CSS3", "Tailwind CSS"],
-    "language"             : ["JavaScript (ES6+)"],
-    "library"              : ["React.js"],
-    "backend_as_a_service" : ["Firebase"],
-    "tools"                : ["Git", "GitHub"]
-  },
-  "moderate": {
-    "framework"            : ["Bootstrap", "Express.js"],
-    "runtime"              : ["Node.js"],
-    "database"             : ["MongoDB"]
-  },
-  "exploring": {
-    "language"             : ["TypeScript"],
-    "framework"            : ["Next.js"],
-    "animation"            : ["Framer Motion", "GSAP"]
-  }
-}
-```
-
----
-
-## `$ neofetch --stats`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=fardus-hassan&theme=tokyonight&hide_border=true&background=0D1117&stroke=8854d0&fire=8854d0&ring=8854d0&currStreakLabel=8854d0&sideLabels=8854d0&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=8B949E" alt="GitHub Streak" />
-&nbsp;
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=fardus-hassan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8854d0&icon_color=8854d0&text_color=C9D1D9" alt="GitHub Stats" />
-
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fardus-hassan&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8854d0&text_color=C9D1D9" alt="Top Languages" />
-
-</div>
-
----
-
-## `$ cat roadmap.md`
-
-```
-2022 ──── Started learning HTML & CSS
-2023 ──── Mastered JavaScript · Jumped into React
-2024 ──── First dev role @ Eclipse Intellitech
-           └── Shipped real products for real users
-2025 ──── Joined Freelance Hub BD as Frontend Engineer
-           └── Now exploring:
-               ├── TypeScript
-               ├── Next.js
-               ├── Framer Motion & GSAP
-               └── Actively looking for full-time role  →  OPEN 🟢
-```
-
----
-
-## `$ cat education.txt`
-
-| 📚 Course | 🏫 Platform | 📅 Period |
-|-----------|-------------|-----------|
-| Complete Web Development (Jhankar Mahbub) | Jhankartech | 2023 – 2024 |
-| Complete Web Design — HTML, CSS, JavaScript | Jhankartech | 2022 – 2023 |
-| Diploma in Mechanical Engineering | MIST | — |
-
----
-
-## `$ ping connect`
-
-<div align="center">
-
-| | Platform | Link |
-|-|----------|------|
-| 🖥️ | Portfolio | [fardus-hassan.netlify.app](https://fardus-hassan.netlify.app) |
-| 💼 | LinkedIn | [linkedin.com/in/fardus-hassan-05a3932aa](https://linkedin.com/in/fardus-hassan-05a3932aa) |
-| 📘 | Facebook | [facebook.com/fardus.hassan](https://facebook.com/profile.php?id=100034957954013) |
-| 📱 | WhatsApp | [+880 1722-092675](https://api.whatsapp.com/send/?phone=8801722092675) |
-| 📧 | Email | fardus.dev@gmail.com |
-
-</div>
-
----
-
-<div align="center">
-
-```
-> Thanks for scrolling this far.
-> Let's build something great together. ✦
-> ──────────────────────────────────────
-> Fardus Hassan · Joydebpur, Gazipur, Bangladesh
-> fardus.dev@gmail.com
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8854d0&height=80&section=footer" width="100%" />
-
-</div>
