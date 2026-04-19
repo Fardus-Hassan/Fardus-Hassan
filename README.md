@@ -93,20 +93,26 @@ I am a passionate front-end developer and junior MERN stack developer. Despite n
 <br/>
 
 <h3  align="center">📞 Connect with me :-</h3>
-<p align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://linkedin.com/in/fardus-hassan-05a3932aa" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Fardus Hassan LinkedIn" height="50" width="50" />
-  </a>
-  <a href="https://facebook.com/profile.php?id=100034957954013" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Fardus Hassan Facebook" height="50" width="50" />
-  </a>
-  <a href="https://api.whatsapp.com/send/?phone=8801722092675&text&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="Fardus Hassan Whatsapp" height="50" width="50" />
-  </a>
-  <a href="https://fardus-hassan.netlify.app" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/portfolio.png" alt="Fardus Hassan Portfolio" height="50" width="50" />
-  </a>
-</p>
+<div align="center">
+  <span style="display: flex; align-items: center; justify-content: center; gap: 8px; font-size: 1.1em;">
+    <img src="https://img.icons8.com/fluency/24/000000/phone.png" height="18" style="vertical-align: middle;"/>
+    Connect with me :-
+  </span>
+  <div style="display: flex; justify-content: center; align-items: center; gap: 18px; margin-top: 16px;">
+    <a href="https://linkedin.com/in/fardus-hassan-05a3932aa" target="_blank">
+      <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="Fardus Hassan LinkedIn" height="50" width="50" />
+    </a>
+    <a href="https://facebook.com/profile.php?id=100034957954013" target="_blank">
+      <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" alt="Fardus Hassan Facebook" height="50" width="50" />
+    </a>
+    <a href="https://api.whatsapp.com/send/?phone=8801722092675&text&type=phone_number&app_absent=0" target="_blank">
+      <img src="https://img.icons8.com/fluent/48/000000/whatsapp.png" alt="Fardus Hassan Whatsapp" height="50" width="50" />
+    </a>
+    <a href="https://fardus-hassan.netlify.app" target="_blank">
+      <img src="https://img.icons8.com/fluent/48/000000/portfolio.png" alt="Fardus Hassan Portfolio" height="50" width="50" />
+    </a>
+  </div>
+</div>
 
 <br/>
 
